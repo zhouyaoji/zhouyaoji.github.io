@@ -1,11 +1,9 @@
-source: /home1/joecater/portfolio 
-destination: /home1/joecater/public_html/portfolio/ 
 # Site settings
 title: Home
 email: zhouyaoji@yahoo.com
 description: > # this means to ignore newlines until "baseurl:"
   Welcome to the portfolio page for Joseph Catera. 
-baseurl: "/portfolio" # the subpath of your site, e.g. /blog/
+baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "zhouyaoji.com" # the base hostname & protocol for your site
 twitter_username: zhouyaoji
 github_username:  zhouyaoji
