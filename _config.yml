@@ -23,3 +23,23 @@ exclude:
 gems:
   - jekyll-sitemap
 
+# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
+google_analytics:
+
+url: https://zhouyaoji.github.io
+
+
+footer-links:
+  dribbble:
+  email: zhouyaoji@yahoo.com
+  facebook: 
+  flickr: zhouyaoji
+  github: zhouyaoji 
+  instagram: 
+  linkedin: MetaAshley
+  pinterest:
+  rss: 
+  twitter: zhouyaoji
+  stackoverflow: zhouyaoji
+  youtube: zhouyaoji
+  googleplus: zhouyaoji
