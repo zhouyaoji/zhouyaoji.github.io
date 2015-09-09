@@ -16,13 +16,13 @@ Wrote developer documentation in many authoring formats for internal and externa
 
 #### **Highlighted Documentation Projects**
 
-|Title|Documentation Type|Source Format|Technology|
-|:------------- | ------------- | ------------- | ------------- |
-|YQL Guide|User Guide|DocBook XML|SQL, REST API|
-|Mojito Guide|User Guide|reStructuredText|Node.js Application Framework/td>|
-|HBase/Hive/Storm/Oozie/Hue Guides|User Guides|reStructuredText/Google Doc/Jive Doc|Hadoop|
-|Manhattan Guide|User Guide|reStructuredText|Application Hosting Platform|
-|Screwdriver Guide|User Guide|Markdown/HTML|Continuous Delivery Platform|
+| Title | Documentation Type | Source Format | Technology |
+|------------- | ------------- | ------------- | ------------- |
+| YQL Guide | User Guide | DocBook XML | SQL, REST API |
+| Mojito Guide | User Guide | reStructuredText | Node.js Application Framework |
+| HBase/Hive/Storm/Oozie/Hue Guides | User Guides | reStructuredText/Google Doc/Jive Doc | Hadoop |
+| Manhattan Guide | User Guide | reStructuredText | Application Hosting Platform |
+| Screwdriver Guide | User Guide | Markdown/HTML | Continuous Delivery Platform |
 
 ## Education
 
@@ -43,11 +43,11 @@ Technical Certificates (5) \| 2004-2008
 
 ## Skills
 
-|Technologies|Programming Languages|Documentation Tools|
-|:------------- | ------------- | ------------- |
-|Node.js: Express/Mojito|JavaScript|reStructuredText|
-|Hadoop: Pig, Hive, Hue, Storm, HBase, Oozie|Java|DocBook XML|
-|RESTful APIs|Ruby|Jekyll/Markdown|
-|OAuth|Python|Git/SVN/CVS|
-|CI/CD - Jenkins|BASH|TWiki/Wiki|
-|Ember.JS, AngularJS, React|SQL|Jive/Google Docs|
+| Technologies | Programming Languages | Documentation Tools |
+|------------- | ------------- | ------------- |
+| Node.js: Express/Mojito | JavaScript|reStructuredText |
+| Hadoop: Pig, Hive, Hue, Storm, HBase, Oozie | Java | DocBook XML |
+| RESTful APIs | Ruby | Jekyll/Markdown |
+| OAuth | Python | Git/SVN/CVS |
+| CI/CD - Jenkins | Bash | TWiki/Wiki |
+| Ember.JS, AngularJS, React | SQL | Jive/Google Docs |
