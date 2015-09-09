@@ -16,6 +16,7 @@ Wrote developer documentation in many authoring formats for internal and externa
 
 #### **Highlighted Documentation Projects**
 
+The table below lists the major projects that I've worked on.
 
 | Title | Documentation Type | Source Format | Technology |
 | :------------- | :------------- | :------------- | :------------- |
@@ -44,9 +45,12 @@ Technical Certificates (5) \| 2004-2008
 
 ## Skills
 
+I am competent with the technologies, programming language,
+and documentation tools listed in the table below.
+
 | Technologies | Programming Languages | Documentation Tools |
 | :------------- | :------------- | :------------- |
-| Node.js: Express/Mojito | JavaScript|reStructuredText |
+| Node.js: Express/Mojito | JavaScript | reStructuredText |
 | Hadoop: Pig, Hive, Hue, Storm, HBase, Oozie | Java | DocBook XML |
 | RESTful APIs | Ruby | Jekyll/Markdown |
 | OAuth | Python | Git/SVN/CVS |
