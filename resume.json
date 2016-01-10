@@ -1,0 +1,277 @@
+{
+  "basics": {
+    "name": "Joseph Catera",
+    "label": "Technical Writer",
+    "picture": "",
+    "email": "zhouyaoji@yahoo.com",
+    "phone": "(415) 699-8097",
+    "website": "http://zhouyaoji.github.io",
+    "summary": "I specialize in writing documentation for external and internal developers. My experience writing documentation for external developers has primarily been for REST APIs and application platforms. My experience writing internal documentation has covered a wider range of technology, from grid software such as Hadoop to continuous integration, hosting environments, batch imaging software, etc. ",
+    "location": {
+      "address": "",
+      "postalCode": "94612",
+      "city": "Oakland",
+      "countryCode": "US",
+      "region": "California"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "zhouyaoji",
+        "url": "https://twitter.com/zhouyaoji"
+      },
+      {
+        "network": "SoundCloud",
+        "username": "zhouyaoji",
+        "url": "https://soundcloud.com/zhouyaoji"
+      },
+      {
+        "network": "GitHub",
+        "username": "zhouyaoji",
+        "url": "https://github.com/zhouyaoji"
+      },
+      {
+        "network": "Tumblr",
+        "username": "zhouyaoji",
+        "url": "http://zhouyaoji.tumblr.com"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "zhouyaoji",
+        "url": "https://www.linkedin.com/in/zhouyaoji"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Yahoo! Inc",
+      "position": "Technical Writer",
+      "website": "developer.yahoo.com",
+      "startDate": "2008-06-15",
+      "endDate": "2016-01-09",
+      "summary": "Technical Writer for the Yahoo Developer Network and the Yahoo platform organization. Have written documentation for internal products and external products such as YQL, YAP, Yahoo Social APIs, Mojito, Hadoop, UGC APIs as well as the internal continuous delivery and hosting service.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "San Francisco State / Sichuan University",
+      "area": "Chinese Language",
+      "studyType": "Bachelor",
+      "startDate": "1994-09-01",
+      "endDate": "2004-05-29",
+      "gpa": "3.85",
+      "courses": [
+        "Chinese Composition and Conversation  ",
+        "Composition and Reading ",
+        "Media Chinese",
+        "Chinese Applied Linguistics",
+        "Advanced Oral Presentation and Writing",
+        "Idioms as Cultural Expression",
+        "Traditional Chinese Culture",
+        "Chinese Literature in Translation: Poetry ",
+        "Classical Chinese",
+        "Advanced Chinese Spoken/Composition"
+      ]
+    },
+    {
+      "institution": "San Francisco State University",
+      "area": "Technical and Professional Writing ",
+      "studyType": "Certificate",
+      "startDate": "2005-01-29",
+      "endDate": "2008-05-29",
+      "gpa": "",
+      "courses": [
+        "Fundamentals of Technical/Professional Writing ",
+        "Writing Technical Documents/Procedures ",
+        "Instructional Multimedia Tools ",
+        "Desktop Publishing for Professional Writers  ",
+        "Writing for Online Presentation  ",
+        "Professional Editing  ",
+        "Electronic Copy Editing ",
+        "News Writing and Reporting"
+      ]
+    },
+    {
+      "institution": "City College of San Francisco",
+      "area": "Computer Science",
+      "studyType": "Certificates",
+      "startDate": "2005-01-26",
+      "endDate": "2005-05-25",
+      "gpa": "",
+      "courses": [
+        "Interactive Web Pages-JavaScript",
+        "Data Structures & Algorithms: C++/Java",
+        "Ruby Programming / Ruby on Rails Workshop",
+        "Unix/Linux Sys Admin/Programming",
+        "Unix/Linux Network Services",
+        "Perl/Python/PHP Programming",
+        "Programming Techniques for XML"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Dean's List",
+      "date": "2004-09-01",
+      "awarder": "CCSF",
+      "summary": "Fall 2004"
+    },
+     {
+      "title": "Dean's List",
+      "date": "2004-06-01",
+      "awarder": "CCSF",
+      "summary": "Spring 2004"
+    },
+    {
+      "title": "Dean's List",
+      "date": "2005-09-01",
+      "awarder": "CCSF",
+      "summary": "Fall 2005"
+    },
+    {
+      "title": "Graduated Summa Cum Laude ",
+      "date": "2005-06-01",
+      "awarder": "SFSU",
+      "summary": "Spring 2005"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Yahoo Social API Guide",
+      "publisher": "Yahoo Developer Network",
+      "releaseDate": "",
+      "website": "https://developer.yahoo.com/social/rest_api_guide/ysp_guide_yql.html",
+      "summary": "API Reference for the Yahoo's REST Social APIs."
+    },
+    {
+      "name": "Mojito Documentation",
+      "publisher": "Yahoo Developer Network",
+      "releaseDate": "",
+      "website": "https://developer.yahoo.com/cocktails/mojito/docs/",
+      "summary": "This is the developer documentation for Mojito, a Node.js application platform."
+    },
+    {
+      "name": "YQL Guide",
+      "publisher": "Yahoo Developer Network",
+      "releaseDate": "",
+      "website": "https://developer.yahoo.com/yql/guide/",
+      "summary": "This is the developer documentation for YQL, a REST API that acts as a proxy for accessing Web data."
+    },
+    {
+      "name": "Yahoo OAuth 2.0 Guide",
+      "publisher": "Yahoo Developer Network",
+      "releaseDate": "",
+      "website": "https://developer.yahoo.com/oauth2/guide/",
+      "summary": "The developer documentation for using Yahoo's implementation of OAuth 2.0 and OpenID Connect."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Documentation",
+      "level": "Master",
+      "keywords": [
+        "User Guides",
+        "Manuals",
+        "Getting Started Guides",
+        "API References",
+        "Tutorials"
+      ]
+    },
+    {
+      "name": "Authoring Formats",
+      "level": "Master",
+      "keywords": [
+        "DocBook XML",
+        "reStructuredText",
+        "Markdown",
+        "AsciiDoc",
+        "TWiki",
+        "MediaWiki",
+        "Google Doc",
+        "Jive Doc"
+      ]
+    },
+    {
+      "name": "Technology",
+      "level": "Intermediate",
+      "keywords": [
+        "Hadoop: HDFS, Hive, Pig, Storm, Hue, HBase, Oozie",
+        "Node.js",
+        "HTML/CSS/JavaScript",
+        "XML/JSON",
+        "REST APIs",
+        "Continuous Delivery",
+        "OAuth/OpeID Connect",
+        "Docker",
+        "Git/SVN/CVS"
+      ]
+    },
+    {
+      "name": "Languages",
+      "level": "Intermediate",
+      "keywords": [
+        "JavaScript",
+        "Ruby",
+        "C/C++",
+        "Java",
+        "Python",
+        "PHP",
+        "BASH",
+        "Go"
+      ]
+    },
+    {
+      "name": "Writing Skills",
+      "level": "Master",
+      "keywords": [
+        "Researching and learning technology quickly",
+        "Gathering and organizing content",
+        "Forming a documentation plan",
+        "Drafting documentation",
+        "Substantive editing",
+        "Copy editing",
+        "Proofreading "
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Mandarin Chinese",
+      "fluency": "Limited Working Proficiency"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Musical Composition",
+      "keywords": [
+        "Counterpoint",
+        "Arrangements",
+        "Chamber Works",
+        "Piano/Guitar"
+      ]
+    },
+    {
+      "name": "Language Study",
+      "keywords": [
+        "French",
+        "Italian",
+        "Spanish"
+      ]
+    },
+    {
+      "name": "Writing",
+      "keywords": [
+        "Fiction",
+        "Poetry",
+        "Blogging"
+      ]
+    }
+  ],
+  "references": []
+}
