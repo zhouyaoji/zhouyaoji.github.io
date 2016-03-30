@@ -1,3 +1,4 @@
 Build resume:
 
 $ resume export resume/index.html --theme slick
+$ resume export resume/index.html --theme elegant 
