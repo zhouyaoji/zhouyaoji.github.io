@@ -1,0 +1,140 @@
+{
+  "basics": {
+    "name": "Chun Liu",
+    "label": "Sales Assistant",
+    "picture": "https://media.licdn.com/media/AAEAAQAAAAAAAAboAAAAJDgxOGQ2ZGE0LWM2ZjgtNDE4Mi05ZTc4LWU1YzNiMTM1Njk4MQ.jpg",
+    "email": "clinvegas@hotmail.com",
+    "phone": "(702) 339-2012",
+    "website": "http://zhouyaoji.github.io/resume/annie_resume.html",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "94612",
+      "city": "Oakland",
+      "countryCode": "US",
+      "region": "California"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "chun-liu-932b2176",
+        "url": "https://www.linkedin.com/in/chun-liu-932b2176"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Wynn Resorts Limited",
+      "position": "Dealer",
+      "website": "http://www.wynnlasvegas.com",
+      "startDate": "2008-02-10",
+      "endDate": "2016-03-29",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "company": "MGM Grand",
+      "position": "Group Dealer",
+      "website": "https://www.mgmgrand.com/en.html",
+      "startDate": "2003-03-05",
+      "endDate": "2008-02-10",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "company": "Suncoast",
+      "position": "Heel Dealer",
+      "website": "http://www.suncoastcasino.com",
+      "startDate": "2003-07-18",
+      "endDate": "2002-06-14",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "company": "Accountant Assistant",
+      "position": "Stone Group Co.",
+      "website": "http://en.hongxingstone.com",
+      "startDate": "2002-05-30",
+      "endDate": "1995-06-24",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Wynn Hotel",
+      "area": "Continuous Training in the Gaming Industry | Security • Regulations • Floor",
+      "studyType": "Job Training Program",
+      "startDate": "2008-02-10",
+      "endDate": "2016-03-29",
+      "gpa": "N/A",
+      "courses": [
+        "Casino Security",
+        "Table Regulations",
+        "Floor Management"
+      ]
+    },
+    {
+      "institution": "ACC",
+      "area": "Poker, Blackjack, Roulette, Craps, and Baccarat",
+      "studyType": "Certificate",
+      "startDate": "2001-01-05",
+      "endDate": "2002-01-18",
+      "gpa": ""
+    },
+    {
+      "institution": "University of Science and Technology Beijing",
+      "area": "International Finance",
+      "studyType": "Associates Degree",
+      "startDate": "1995-08-20",
+      "endDate": "1997-06-15"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Table Games",
+      "level": "Master",
+      "keywords": [
+        "Baccarat",
+        "Roulette",
+        "Blackjack",
+        "Regulatory Compliance" 
+      ]
+    },
+    {
+      "name": "Customer Service",
+      "level": "Master",
+      "keywords": [
+        "Client Relations",
+        "Excellent Communication"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Mandarin",
+      "fluency": "Native Speaker"
+    },
+    {
+      "language": "Cantonese",
+      "fluency": "Native Speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Fashion",
+      "keywords": [
+        "",
+        ""
+      ]
+    },
+    {
+      "name": "Business",
+      "keywords": [
+        ""
+      ]
+    }
+  ],
+  "references": []
+}
