@@ -1,4 +1,9 @@
 Build resume:
 
+
 $ resume export resume/index.html --theme slick
 $ resume export resume/index.html --theme elegant 
+
+PDF:
+
+$ wkhtmltopdf  --enable-smart-shrinking -T 15 -B 15 --zoom 0.78 resume_without_header.html resume1.pdf
