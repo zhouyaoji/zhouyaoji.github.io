@@ -35,7 +35,9 @@ ul, ol, dl, figure,
     margin-bottom: $spacing-unit / 2;
 }
 
-
+h1 {
+  font-size: 80%;
+}
 
 /**
  * Images
@@ -57,8 +59,6 @@ figure > img {
 figcaption {
     font-size: $small-font-size;
 }
-
-
 
 /**
  * Lists
