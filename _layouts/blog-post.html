@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}">
+  <title>{{ page.title }} · Joseph Catera</title>
+  <link rel="stylesheet" href="/assets/blog.css">
+</head>
+<body>
+  <header class="wrap">
+    <nav class="site-nav" aria-label="Primary">
+      <a class="brand" href="/">Joseph Catera</a>
+      <div class="nav-links">
+        <a href="/#portfolio">Portfolio</a>
+        <a href="/leadership/">Leadership</a>
+        <a href="https://zhouyaoji.github.io/northstar-docs-frameworks/">Docs Lab</a>
+        <a href="/blog/" aria-current="page">Blog</a>
+        <a href="/resume/">Résumé</a>
+      </div>
+    </nav>
+  </header>
+  <main>
+    <article class="wrap article">
+      <header class="article-header">
+        <p class="eyebrow">{{ page.categories | first | default: "Blog" }}</p>
+        <h1>{{ page.title }}</h1>
+        <p class="article-meta"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time></p>
+        <div class="tags" aria-label="Tags">{% for tag in page.tags %}<span class="tag">{{ tag }}</span>{% endfor %}</div>
+      </header>
+      <div class="article-content">{{ content }}</div>
+      <a class="back-link" href="/blog/">← All blog posts</a>
+    </article>
+  </main>
+  <footer class="wrap">© Joseph Catera · <a href="https://www.linkedin.com/in/zhouyaoji/">LinkedIn</a> · <a href="https://github.com/zhouyaoji">GitHub</a></footer>
+</body>
+</html>
