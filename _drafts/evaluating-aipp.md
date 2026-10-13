@@ -30,7 +30,7 @@ excerpt: "A draft account of building a fair, reproducible evaluation for compar
 
 ## Stage 1: Evaluation contract
 
-Status: in progress
+Status: complete
 
 - Versioned evaluation protocol
 - Gold-standard benchmark schema
@@ -39,20 +39,22 @@ Status: in progress
 - Initial cases covering shared content, AIPP-only details, conflicts, and insufficient evidence
 - CI validation
 
-Questions or lessons to add after review:
+Lessons from the completed contract:
 
-- Did reviewers find the condition-specific expectations understandable?
-- Were any gold claims inadvertently biased toward AIPP?
-- What changed during review?
+- Separate shared, AIPP-only, conflict, and insufficient-evidence cases so AIPP is not rewarded merely for containing more text.
+- Credit ordinary documentation for appropriate abstention when it lacks evidence.
+- Preserve separate response and judgment schemas so answers, deterministic checks, and human ratings remain auditable.
 
 ## Stage 2: Blinded evaluation packets
 
-Status: planned
+Status: implementation ready for review
 
 - Generate randomized `source-a` and `source-b` packets.
 - Keep the condition map away from answer generators and judges.
 - Record source checksums and run metadata.
 - Create response templates that conform to the shared JSON Schema.
+- Validate packet generation in CI without calling a model or using paid API tokens.
+- Preserve source formats and disclose that structural differences can limit perfect blinding.
 
 ## Stage 3: Response import and deterministic checks
 
@@ -109,4 +111,3 @@ Add after the pilot:
 - Published comparison report
 - Scorecard
 - GitHub repository
-
