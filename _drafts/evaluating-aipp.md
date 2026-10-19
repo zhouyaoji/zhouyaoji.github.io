@@ -47,7 +47,7 @@ Lessons from the completed contract:
 
 ## Stage 2: Blinded evaluation packets
 
-Status: implementation ready for review
+Status: complete
 
 - Generate randomized `source-a` and `source-b` packets.
 - Keep the condition map away from answer generators and judges.
@@ -58,12 +58,14 @@ Status: implementation ready for review
 
 ## Stage 3: Response import and deterministic checks
 
-Status: planned
+Status: implementation ready for review
 
 - Import responses created through file-reading assistants or APIs.
-- Validate every response without changing its original text.
-- Check required citations, prohibited claims, and structural requirements.
+- Validate every response while preserving valid source files byte for byte.
+- Check structure, packet metadata, duplicates, completeness, and citation identifiers.
 - Preserve failures and missing answers as evidence.
+- Record response checksums and keep the private condition mapping out of shareable results.
+- Leave semantic accuracy, prohibited claims, conflict handling, and uncertainty to blinded model or human review.
 
 ## Stage 4: Human review and comparison report
 
