@@ -1,7 +1,7 @@
 ---
 layout: blog-post
 title: "Importing Responses and Running Deterministic Checks"
-date: 2026-10-04
+date: 2026-10-19
 categories:
   - Documentation experiments
 tags:
