@@ -58,7 +58,7 @@ Status: complete
 
 ## Stage 3: Response import and deterministic checks
 
-Status: implementation ready for review
+Status: complete
 
 - Import responses created through file-reading assistants or APIs.
 - Validate every response while preserving valid source files byte for byte.
@@ -69,12 +69,15 @@ Status: implementation ready for review
 
 ## Stage 4: Human review and comparison report
 
-Status: planned
+Status: implementation ready for review
 
-- Review blinded answers on a 0–4 scale.
+- Assign new randomized review IDs that hide the answer generator, source condition, and original response ID.
+- Review blinded answers on a 0–4 scale using the supplied source and condition-specific gold requirements.
 - Score accuracy, completeness, attribution, edge cases, conflicts, and uncertainty.
 - Mark dimensions that do not apply.
-- Display evaluator disagreement and individual cases instead of only an aggregate score.
+- Preserve multiple reviewer judgments so disagreement remains visible.
+- Generate JSON and Markdown reports with coverage, separate deterministic and human aggregates, paired differences, individual cases, and limitations.
+- Treat paired differences as descriptive rather than claiming statistical significance from the small initial suite.
 
 ## Pilot: Codex and Gemini
 
