@@ -1,6 +1,6 @@
 ---
 layout: blog-post
-title: "Creating the infrastructure for human review"
+title: "Creating the Infrastructure for Human Review"
 date: 2026-10-31
 categories:
   - Documentation experiments
