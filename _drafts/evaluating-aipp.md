@@ -69,7 +69,7 @@ Status: complete
 
 ## Stage 4: Human review and comparison report
 
-Status: implementation ready for review
+Status: complete
 
 - Assign new randomized review IDs that hide the answer generator, source condition, and original response ID.
 - Review blinded answers on a 0–4 scale using the supplied source and condition-specific gold requirements.
@@ -81,13 +81,16 @@ Status: implementation ready for review
 
 ## Pilot: Codex and Gemini
 
-Status: planned
+Status: manual pilot procedure ready
 
 - Use at least one OpenAI/Codex model and one Gemini model.
 - Record the exact model identifiers and interfaces.
 - Keep prompts and source packets identical.
 - Avoid paid API calls initially by using file-reading assistants when practical.
 - Add automated API adapters only after the manual protocol works.
+- Use fresh, isolated sessions and give each assistant only the blinded share directory.
+- Keep condition and review mappings private until answers and human judgments are complete.
+- Preserve missing or invalid responses and document any mechanical JSON repairs.
 
 ## Results
 
