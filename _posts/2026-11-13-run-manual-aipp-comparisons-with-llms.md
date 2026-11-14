@@ -7,7 +7,8 @@ categories:
 tags:
   - Technical Documentation
   - AIPP
-excerpt: ""
+excerpt: "The goal of this initial pilot is to perform a simple and economical test of AIPP and establish a 
+way to use APIs in the future."
 ---
 
 My last update to the Northstar project includes instructions for testing whether AIPP elicits better
